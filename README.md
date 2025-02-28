@@ -1,6 +1,6 @@
 # aumc-los-pred-latent-viz
 # Interactive-latent-space-visualization
-This project is about an interactive visualization of models' latent spaces using Dash &amp; Plotly
+Here we have a demo of the interactive visualization of models' latent spaces using Dash &amp; Plotly
 
 *Email*: ***naomiewamba@ymail.com***
 
